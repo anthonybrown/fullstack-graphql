@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "tony",
-    "password": "JesusInMe",
+    "password": "****",
     "database": "MySQL",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "tony",
-    "password": "JesusInMe",
+    "password": "****",
     "database": "graphql_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
